@@ -217,7 +217,7 @@ export default function App() {
         return (
             <main className="auth-shell">
                 <section className="auth-card">
-                    <h1>Book Nest</h1>
+                    <h1>Page & Pine</h1>
 
                     <p className="muted">
                         A little corner for readers.
@@ -268,7 +268,7 @@ export default function App() {
 
             <header className="topbar">
                 <div>
-                    <strong>Book Nest</strong>
+                    <strong>Page & Pine</strong>
                     <span className="tagline">Online Bookstore</span>
                 </div>
 
@@ -357,7 +357,7 @@ export default function App() {
             </main>
 
             <footer>
-                Book Nest · Built for readers
+                Page & Pine · Built for readers
             </footer>
 
         </div>

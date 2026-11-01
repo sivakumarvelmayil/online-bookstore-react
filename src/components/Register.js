@@ -56,7 +56,7 @@ export default function Register({ onSuccess, onLogin }) {
     return (
         <form className="auth-form" onSubmit={submit}>
             <div className="auth-header">
-                <p className="eyebrow">JOIN BOOK NEST</p>
+                <p className="eyebrow">JOIN PAGE & PINE</p>
                 <h2>Create account</h2>
                 <p className="muted">
                     Create your account and discover your next favourite book.
